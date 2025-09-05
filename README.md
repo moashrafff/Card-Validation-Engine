@@ -35,7 +35,7 @@ repositories {
 Then add the dependency (replace `TAG` with the latest release tag):
 
 ```gradle
-implementation("com.github.moashrafff:bank-card-validator-engine:TAG")
+implementation("com.github.moashrafff:bank-card-validation-engine:TAG")
 ```
 
 ---
